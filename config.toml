@@ -1,0 +1,16 @@
+[theme]
+# Primary color for buttons, checkboxes, and the tab underline
+primaryColor = "#176bcc" 
+
+# Background color for the main content area (Clean White)
+backgroundColor = "#d4d4d4"
+
+# Background color for the sidebar (Deep Navy for contrast)
+secondaryBackgroundColor = "#b5bdce"
+
+# Main text color (Dark for readability)
+textColor = "#020a2e"
+
+# Font family
+font = "sans serif"
+

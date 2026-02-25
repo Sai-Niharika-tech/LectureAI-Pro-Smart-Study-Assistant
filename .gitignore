@@ -1,0 +1,6 @@
+.streamlit/
+temp_*
+__pycache__/
+*.mp3
+*.mp4
+*.pdf
