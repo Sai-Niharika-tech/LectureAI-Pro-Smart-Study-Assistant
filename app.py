@@ -68,7 +68,7 @@ if page == "About Project":
         st.write("- **Intelligent Analysis**: Powered by Gemini 2.5 Flash for rapid content processing.")
         st.write("- **Multi-format Support**: Handles Video, Audio, and PDF inputs seamlessly.")
         st.write("- **Has Live Recording Option**: Capture and analyze lectures in real-time.")
-         st.write("- **Supports Multiple Languages**: Can process content in various languages, like Hindi, Telugu, English, etc.")
+        st.write("- **Supports Multiple Languages**: Can process content in various languages, like Hindi, Telugu, English, etc.")
         st.write("- **Visual Anchoring**: Detects and describes critical visual moments in video lectures.")
         st.write("- **Interactive Quizzing**: Automatically formats MCQs with an included answer key.")
 
@@ -136,3 +136,4 @@ else:
             st.markdown(quiz)
 
             st.info("Check the bottom of the quiz for the Answer Key!")
+
